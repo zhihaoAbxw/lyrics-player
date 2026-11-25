@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b2231">
+  <meta name="description" content="收听赵雷、李志的歌曲，查看同步歌词，按歌手切换播放队列。">
+  <title>歌词随身听</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23101820'/%3E%3Cpath d='M42 15v27.5a9 9 0 1 1-5-8V23l-17 4v20.5a9 9 0 1 1-5-8V23l27-8Z' fill='%23ffc857'/%3E%3C/svg%3E">
+  <style>
+    :root{color-scheme:dark;--bg:#06131d;--panel:#0b2231;--panel2:#12354a;--ink:#f5fbff;--muted:#9ab5c5;--accent:#8bd9ff;--accent2:#ffd27c;--line:rgba(255,255,255,.11);--safe-top:env(safe-area-inset-top,0px);--safe-bottom:env(safe-area-inset-bottom,0px)}
+    *{box-sizing:border-box}
+    html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:ui-rounded,"SF Pro Rounded","PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+    body{min-height:100dvh;background:radial-gradient(circle at 50% -10%,rgba(82,177,220,.28),transparent 42%),linear-gradient(180deg,#102d3e 0,#06131d 58%)}
+    button,input{font:inherit}
+    button{border:0;color:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}
+    button:focus-visible,.file-button:focus-visible{outline:3px solid rgba(139,217,255,.6);outline-offset:3px}
+    .app{height:100dvh;min-height:100dvh;display:grid;grid-template-rows:auto minmax(0,1fr) auto;max-width:1040px;margin:auto;overflow:hidden}
+    header{height:60px;display:flex;align-items:center;justify-content:space-between;padding:0 18px;border-bottom:1px solid var(--line);background:rgba(6,19,29,.35);backdrop-filter:blur(20px);position:relative;z-index:3}
+    .brand{display:flex;align-items:center;gap:11px;font-weight:800;letter-spacing:.02em}.brand-mark{width:34px;height:34px;display:grid;place-items:center;border-radius:50%;background:var(--accent);color:#092131;font-size:19px;box-shadow:0 8px 26px rgba(84,185,231,.24)}
+    .site-credit{font-size:.75rem;font-weight:400;letter-spacing:.02em;color:var(--muted);opacity:.7;white-space:nowrap}
+    .header-actions{display:flex;align-items:center;gap:12px;pointer-events:auto}.library-button{display:none;min-height:40px;padding:0 12px;border:1px solid var(--line);border-radius:12px;background:rgba(9,30,43,.6);font-size:.88rem;color:var(--ink)}
+    .icon-button{min-width:42px;height:42px;border-radius:14px;background:transparent;display:grid;place-items:center}.icon-button:hover{background:rgba(255,255,255,.07)}
+    main{min-height:0;display:grid;grid-template-columns:310px 1fr}
+    .sidebar{border-right:1px solid var(--line);padding:18px 14px;overflow:hidden;display:flex;flex-direction:column;background:rgba(10,16,22,.38)}
+    .library-tabs{position:relative;isolation:isolate;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px;flex:none;padding:4px;margin-bottom:12px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.04)}.library-tab-indicator{position:absolute;z-index:0;top:4px;bottom:4px;left:4px;width:calc((100% - 16px)/3);border-radius:10px;background:linear-gradient(135deg,#b5e8ff,var(--accent));box-shadow:0 3px 14px rgba(80,184,230,.2),inset 0 1px 0 rgba(255,255,255,.45);pointer-events:none;transition:transform .28s cubic-bezier(.22,1,.36,1)}.library-tabs[data-active="lizhi"] .library-tab-indicator{transform:translateX(calc(100% + 4px))}.library-tabs[data-active="all"] .library-tab-indicator{transform:translateX(calc(200% + 8px))}.library-tab{position:relative;z-index:1;min-height:42px;min-width:0;padding:8px 4px;border-radius:10px;background:transparent;color:var(--muted);font-size:.9rem;font-weight:700;transition:color .18s,background .18s,transform .15s}.library-tab:hover{color:var(--ink);background:rgba(255,255,255,.05)}.library-tab[aria-selected="true"]{color:#092131;background:transparent}.library-tab:active{transform:scale(.96)}
+    .library-panel{min-height:0;overflow-y:auto;overflow-x:hidden;overscroll-behavior:contain}.library-empty{margin:34px 10px;text-align:center;color:var(--muted);font-size:.9rem;line-height:1.8}
+    .track-list{display:grid;gap:5px}.track{width:100%;display:grid;grid-template-columns:36px 1fr auto;align-items:center;gap:9px;text-align:left;padding:10px;border-radius:14px;background:transparent;min-width:0}.track:hover{background:rgba(255,255,255,.055)}.track.active{background:var(--panel2)}
+    .track-index{width:34px;height:34px;display:grid;place-items:center;border-radius:10px;background:rgba(255,255,255,.055);color:var(--muted);font-size:.78rem}.track.active .track-index{background:var(--accent);color:#15202a;font-weight:900}.track-name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.92rem}.track-state{font-size:.72rem;color:var(--muted)}
+    .stage{--cover-image:url('cover.jpg');height:100%;min-height:0;position:relative;overflow:hidden;overflow:clip;isolation:isolate}.stage[data-artist="lizhi"]{--cover-image:url('cover-lizhi.jpg')}.stage::before{content:"";position:absolute;inset:-55px;background:linear-gradient(180deg,rgba(5,18,28,.38),rgba(5,18,28,.94)),var(--cover-image) center/cover;filter:blur(34px) saturate(.85);opacity:.68;pointer-events:none;z-index:-2}.stage::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 50% 28%,rgba(139,217,255,.14),transparent 48%);pointer-events:none;z-index:-1}
+    .player{height:100%;min-height:0;display:grid;grid-template-rows:minmax(0,1fr) auto;padding:12px clamp(18px,5vw,54px) 10px}
+    .visual-shell{min-height:0;position:relative;z-index:1;display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;scrollbar-width:none}.visual-shell::-webkit-scrollbar{display:none}
+    .artwork-view,.lyrics-view{flex:0 0 100%;width:100%;min-width:100%;height:100%;min-height:0;scroll-snap-align:start;scroll-snap-stop:always}
+    .artwork-view{display:grid;grid-template-rows:auto auto minmax(0,1fr);justify-items:center;gap:8px;padding-top:7px}
+    .cover-group{display:grid;justify-items:center;gap:12px}.cover-art{display:block;width:min(34dvh,60vw,340px);aspect-ratio:1;border-radius:24px;overflow:hidden;box-shadow:0 28px 70px rgba(0,0,0,.47),0 0 0 1px rgba(255,255,255,.12);transform:rotate(-1.2deg);transition:transform .25s}.artwork-view:hover .cover-art{transform:rotate(0) scale(1.01)}.cover-art img{width:100%;height:100%;display:block;object-fit:cover}
+    .tap-hint{display:inline-flex;align-items:center;justify-content:center;min-height:26px;padding:0 12px;border-radius:999px;background:rgba(5,19,29,.52);color:#c8e6f5;font-size:.75rem;backdrop-filter:blur(12px)}
+    .view-dots{display:flex;justify-content:center;gap:6px;padding:6px 0 1px}.view-dot{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.27);transition:.2s}.view-dot.active{width:16px;border-radius:999px;background:var(--accent)}
+    .now{width:100%;min-width:0;text-align:center;padding:3px 6px 2px}.now h1,.lyrics-heading h2{font-size:1.25rem;line-height:1.35;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.now p,.lyrics-heading p{margin:4px 0 0;color:#b3cad6;font-size:.8rem;line-height:1.4}
+    .lyrics-view{display:grid;grid-template-rows:auto minmax(0,1fr);position:relative}.lyrics-heading{min-width:0;text-align:center;padding:8px 6px 10px}.lyrics-heading h2{font-size:1.15rem}
+    .lyrics,.mini-lyrics{width:100%;height:100%;min-height:0;overflow-y:auto;overflow-x:hidden;scroll-behavior:smooth;overscroll-behavior-y:contain;padding:0 8px;mask-image:linear-gradient(transparent 0,#000 16%,#000 84%,transparent 100%);-webkit-mask-image:linear-gradient(transparent 0,#000 16%,#000 84%,transparent 100%);scrollbar-width:none;position:relative;z-index:1}
+    .lyrics::before,.lyrics::after,.mini-lyrics::before,.mini-lyrics::after{content:"";display:block;height:max(0px,calc(50% - 24px));pointer-events:none}
+    .lyrics::-webkit-scrollbar,.mini-lyrics::-webkit-scrollbar{display:none}.lyric-line{display:block;width:100%;margin:0;background:transparent;color:#7f9aaa;font-size:clamp(1.05rem,3.9vw,1.38rem);font-weight:680;line-height:1.55;padding:10px 4px;text-align:center;transition:color .22s,transform .22s,opacity .22s;opacity:.72}.lyric-line.active{color:var(--ink);opacity:1;transform:scale(1.025);text-shadow:0 4px 22px rgba(255,255,255,.14)}.lyric-line.note{color:var(--muted);font-size:.9rem;font-weight:500}
+    .mini-lyrics{max-width:480px}.mini-lyrics .lyric-line{font-size:.94rem;font-weight:500;line-height:1.6;padding:8px 4px;color:#a0bac9}.mini-lyrics .lyric-line.active{color:var(--ink);font-weight:650}.mini-lyrics .lyric-line.note{font-size:.85rem}
+    .no-lyrics{position:absolute;inset:0;display:grid;place-items:center;text-align:center;color:var(--muted);line-height:1.7;padding:16px}
+    .controls{position:relative;z-index:4;padding:8px clamp(14px,4vw,36px) calc(10px + var(--safe-bottom));background:linear-gradient(180deg,rgba(9,30,43,.88),#071924);border-top:1px solid var(--line);box-shadow:0 -18px 42px rgba(0,0,0,.2);backdrop-filter:blur(22px)}
+    .progress-row{display:grid;grid-template-columns:42px 1fr 42px;gap:8px;align-items:center;font-variant-numeric:tabular-nums;font-size:.72rem;color:var(--muted)}input[type=range]{width:100%;accent-color:var(--accent);height:24px;background:transparent}
+    .transport{width:min(100%,430px);margin:3px auto 0;display:grid;grid-template-columns:repeat(5,1fr);align-items:center}.control{width:46px;height:46px;margin:auto;display:grid;place-items:center;border-radius:15px;background:transparent;font-size:1.1rem}.control:hover,.control.active{background:rgba(255,255,255,.08)}.play{width:60px;height:60px;border:1px solid rgba(255,255,255,.34);border-radius:50%;background:rgba(139,217,255,.94);color:#092131;font-size:1.35rem;box-shadow:0 8px 28px rgba(70,175,224,.25)}.mode-control,.queue-control{font-size:.86rem;line-height:1;grid-template-rows:auto auto;gap:2px}.mode-control span,.queue-control span{font-size:1.15rem}.mode-control small,.queue-control small{font-size:.68rem;color:var(--muted);font-weight:700}
+    .toast{position:fixed;left:50%;bottom:calc(120px + var(--safe-bottom));transform:translate(-50%,18px);padding:11px 16px;border-radius:13px;background:#f8f3e7;color:#101820;font-size:.86rem;font-weight:700;opacity:0;pointer-events:none;transition:.2s;z-index:20;white-space:nowrap;max-width:calc(100vw - 32px);overflow:hidden;text-overflow:ellipsis}.toast.show{opacity:1;transform:translate(-50%,0)}
+    .mobile-shade{display:none}.hidden{display:none!important}
+    .queue-dialog{position:fixed;inset:auto 0 18px;margin:auto;width:min(480px,calc(100vw - 24px));max-height:min(72dvh,600px);padding:0;border:1px solid var(--line);border-radius:22px;background:#0b2231;color:var(--ink);box-shadow:0 24px 90px rgba(0,0,0,.5);overflow:hidden}.queue-dialog[open]{display:flex;flex-direction:column}.queue-dialog::backdrop{background:rgba(0,0,0,.6)}.queue-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 18px 12px;flex:none;border-bottom:1px solid var(--line)}.queue-heading h2{margin:0;font-size:1.1rem}.queue-heading p{margin:5px 0 0;color:var(--muted);font-size:.88rem}.queue-close{font-size:1.5rem;flex:none}.queue-list{min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:10px 12px 16px}.queue-list .track-state{font-size:.8rem}.queue-list .track.active .track-state{color:var(--accent)}
+    @media(max-width:720px){.app{position:relative;grid-template-rows:minmax(0,1fr) auto}header{position:absolute;z-index:8;top:0;left:0;right:0;height:calc(52px + var(--safe-top));padding-top:var(--safe-top);border:0;background:linear-gradient(180deg,rgba(6,19,29,.7),transparent);pointer-events:none}.brand{pointer-events:auto}main{display:block;min-height:0;grid-row:1}.controls{grid-row:2;min-height:0;padding:6px 14px calc(8px + var(--safe-bottom))}.sidebar{position:fixed;z-index:10;top:0;left:0;bottom:0;width:min(91vw,360px);transform:translateX(-105%);transition:transform .25s;background:#081a25;padding-top:calc(66px + var(--safe-top));padding-bottom:calc(20px + var(--safe-bottom));box-shadow:22px 0 50px rgba(0,0,0,.5)}.sidebar.open{transform:none}.mobile-shade{display:block;position:fixed;z-index:9;inset:0;background:rgba(0,0,0,.58);opacity:0;pointer-events:none;transition:.25s}.mobile-shade.show{opacity:1;pointer-events:auto}.stage{height:100%}.player{padding:calc(52px + var(--safe-top)) 14px 6px}.artwork-view{padding-top:7px}.cover-art{width:min(66vw,34dvh,320px);border-radius:20px}.tap-hint{font-size:.72rem;min-height:28px}.control{width:44px;height:44px}.play{width:58px;height:58px}.brand{font-size:.94rem}.brand-mark{width:31px;height:31px}.now p{font-size:.78rem}.now h1{font-size:1.22rem}}
+    @media(max-width:360px){.player{padding-left:10px;padding-right:10px}.cover-art{width:min(62vw,32dvh,270px)}}
+    @media(max-width:720px) and (max-height:650px){.player{padding-bottom:4px}.artwork-view{padding-top:3px}.cover-art{width:min(62vw,32dvh,240px)}.tap-hint{min-height:24px}.artwork-view{gap:5px}.cover-group{gap:8px}.now{padding-top:0}.now h1{font-size:1.12rem}.now p{margin-top:2px}}
+    @media(max-width:720px) and (max-height:500px){.cover-art{width:min(22dvh,50vw)}.tap-hint{display:none}.cover-group{gap:0}.now p{display:none}}
+    @media(max-width:720px){.library-button{display:block}.queue-dialog{inset:auto 0 0;width:100%;max-height:72dvh;border-radius:22px 22px 0 0;border-bottom:0}.queue-list{padding-bottom:calc(16px + var(--safe-bottom))}}
+    .lyrics-tools{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:7px;font-size:.72rem;color:var(--muted)}.subtle-button{min-height:36px;padding:6px 12px;border-radius:10px;border:1px solid var(--line);background:rgba(255,255,255,.06);color:var(--accent);font-size:.8rem;white-space:nowrap}.subtle-button:disabled{opacity:.35;cursor:default}.lyric-line{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}.now-actions{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:5px}.now-actions p{margin:0;min-width:0}.now-actions .subtle-button{flex:none;min-height:40px}
+    .queue-heading-actions{display:flex;align-items:center;gap:4px}.queue-heading-actions .subtle-button{padding:6px 9px}
+    .share-dialog{width:min(600px,calc(100vw - 32px));height:min(760px,calc(100dvh - 40px - var(--safe-top) - var(--safe-bottom)));max-height:none;margin:auto;padding:0;border:1px solid var(--line);border-radius:22px;background:#142b38;color:var(--ink);overflow:hidden;box-shadow:0 24px 90px #0008}
+    .share-dialog[open]{display:flex;flex-direction:column}.share-dialog::backdrop{background:#020b15bd;backdrop-filter:blur(5px)}
+    .share-heading{position:relative;flex:none;padding:22px 24px 16px}.share-heading>div{min-width:0}.share-heading h2{font-size:.95rem;font-weight:500;text-align:center;margin:0;padding:0 42px;color:#b9cbd4}.share-heading p{font-size:1.45rem;font-weight:600;margin:28px 0 4px;line-height:1.45;overflow-wrap:anywhere}.share-heading .queue-close{position:absolute;right:14px;top:12px;color:#dce7ed}
+    .share-selection{flex:1;overflow-y:auto;min-height:0;padding:8px 0 24px;overscroll-behavior:contain}
+    .share-line{display:flex;align-items:center;gap:20px;min-height:62px;padding:15px 24px;margin:0;border:0;border-radius:0;color:#aebfc9;cursor:pointer;line-height:1.65;font-size:1.02rem;-webkit-tap-highlight-color:transparent;transition:background .16s,color .16s}
+    .share-line>span{flex:1;min-width:0;overflow-wrap:anywhere}.share-line:has(input:checked){background:#ffffff1c;color:#f5fbff}.share-line:has(input:focus-visible){outline:2px solid var(--accent);outline-offset:-3px}.share-line:has(input:disabled){opacity:.55;cursor:wait}
+    .share-line input{position:relative;order:2;flex:none;appearance:none;-webkit-appearance:none;width:22px;height:22px;margin:0;border:0;border-radius:50%;background:transparent;cursor:inherit;outline:none}
+    .share-line input:checked{background:#dce8ee}.share-line input:checked::after{content:"";position:absolute;left:8px;top:5px;width:5px;height:9px;border:solid #425866;border-width:0 2px 2px 0;transform:rotate(45deg)}
+    .share-preview{flex:1;padding:16px;overflow-y:auto;min-height:0;overscroll-behavior:contain;text-align:center}.share-preview img{display:block;width:100%;max-width:360px;height:auto;margin-inline:auto;border-radius:3px;box-shadow:0 5px 20px #0002;-webkit-touch-callout:default;user-select:auto}.share-preview p{color:var(--muted);font-size:.78rem;line-height:1.7;margin:12px 0 0}
+    .share-preview .share-image-guide{margin:0 0 14px;padding:12px 10px;border:1px solid #8bd9ff35;border-radius:12px;background:#8bd9ff0b;color:#dceef7}.share-image-guide strong{display:block;font-size:.9rem;color:var(--ink);margin-bottom:3px}.share-image-guide span{display:block;font-size:.76rem;line-height:1.7}.share-preview-actions .subtle-button{min-height:44px;padding:8px 10px;flex:none}
+    .share-footer{flex:none;padding:16px 24px calc(18px + var(--safe-bottom));border-top:1px solid #ffffff0b;background:#142b38}.share-selection-actions,.share-preview-actions{display:flex;align-items:center;gap:10px}.share-selection-actions span{font-size:.8rem;color:#b9cbd4;margin-right:auto}.share-primary,.share-save{min-height:46px;padding:10px 24px;border-radius:999px;background:var(--accent);color:#092131;font-size:.9rem;font-weight:700;text-decoration:none;text-align:center;display:inline-flex;justify-content:center;align-items:center}.share-primary:disabled{opacity:.4;cursor:default}.share-preview-actions .share-save,.share-preview-actions .share-primary{flex:1;padding-inline:8px}.share-status{font-size:.8rem;line-height:1.5;color:var(--accent2);margin:0 0 10px}.share-status:empty{display:none}
+    @media(max-width:720px){.share-dialog{inset:0;width:100vw;max-width:none;height:100dvh;max-height:none;margin:0;border:0;border-radius:0}.share-heading{padding:calc(20px + var(--safe-top)) 20px 14px}.share-heading .queue-close{top:calc(10px + var(--safe-top));right:12px}.share-heading p{margin-top:28px;font-size:1.5rem}.share-line{padding-inline:20px;min-height:64px;font-size:1.05rem}.share-footer{padding-inline:20px}}
+    @media(max-width:360px){.share-heading p{font-size:1.3rem;margin-top:20px}.share-line{gap:14px;font-size:.98rem;min-height:58px}.share-preview-actions{gap:6px}.share-preview-actions .subtle-button{padding-inline:8px}.share-footer{padding-inline:16px}}
+    .share-preview-actions{display:flex;flex-direction:column;align-items:stretch;gap:10px}.share-image-actions,.share-extra-actions{display:flex;align-items:center;gap:10px}.share-extra-actions{justify-content:center;flex-wrap:wrap}.share-extra-actions a{text-decoration:none;display:inline-flex;align-items:center}.share-extra-actions .subtle-button{font-size:.76rem;border:0;background:transparent}.share-image-actions>*{min-width:0}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+  </style>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="brand"><span class="brand-mark" aria-hidden="true">♪</span><span>歌词随身听</span></div>
+      <div class="header-actions"><button class="library-button" id="libraryButton" aria-label="打开曲库" aria-controls="sidebar" aria-expanded="false">曲库</button><small class="site-credit">© abx</small></div>
+    </header>
+    <main>
+      <aside class="sidebar" id="sidebar" aria-label="歌曲列表">
+        <div class="library-tabs" id="libraryTabs" data-active="zhaolei" role="tablist" aria-label="按歌手查看歌曲">
+          <span class="library-tab-indicator" aria-hidden="true"></span>
+          <button class="library-tab" id="tab-zhaolei" role="tab" aria-selected="true" aria-controls="libraryPanel" tabindex="0">赵雷</button>
+          <button class="library-tab" id="tab-lizhi" role="tab" aria-selected="false" aria-controls="libraryPanel" tabindex="-1">李志</button>
+          <button class="library-tab" id="tab-all" role="tab" aria-selected="false" aria-controls="libraryPanel" tabindex="-1">全部</button>
+        </div>
+        <div class="library-panel" id="libraryPanel" role="tabpanel" aria-labelledby="tab-zhaolei">
+          <div class="track-list" id="trackList"></div>
+          <p class="library-empty hidden" id="libraryEmpty" role="status">李志的歌曲待添加</p>
+        </div>
+      </aside>
+      <div class="mobile-shade" id="shade"></div>
+      <section class="stage" id="playerStage" data-artist="zhaolei">
+        <div class="player" id="playerView">
+          <div class="visual-shell" id="viewPager" aria-label="封面和歌词，可左右滑动">
+            <div class="artwork-view" id="artworkView" aria-label="专辑封面，向左滑查看歌词">
+              <div class="cover-group">
+                <span class="cover-art"><img id="coverArt" src="cover.jpg" alt="赵雷「没有信号」风筝封面"></span>
+                <span class="tap-hint">向左滑查看完整歌词</span>
+              </div>
+              <div class="now"><h1 id="trackTitle">—</h1><div class="now-actions"><p id="trackMeta">赵雷 · 鸟巢现场</p><button class="subtle-button" id="coverShareButton" aria-label="分享当前歌曲歌词" disabled>分享歌词</button></div></div>
+              <div class="mini-lyrics" id="miniLyrics" aria-label="当前歌曲滚动歌词" aria-live="off"></div>
+            </div>
+            <div class="lyrics-view" id="lyricsView">
+              <div class="lyrics-heading"><h2 id="lyricsTitle">—</h2><p id="lyricsMeta">赵雷 · 鸟巢现场</p><div class="lyrics-tools"><span>点歌词可跳转</span><button class="subtle-button" id="lyricShareButton" disabled>分享歌词</button></div></div>
+              <div class="lyrics" id="lyrics" aria-label="完整歌词" aria-live="off"></div>
+            </div>
+          </div>
+          <div class="view-dots" aria-hidden="true"><span class="view-dot active" id="coverDot"></span><span class="view-dot" id="lyricsDot"></span></div>
+        </div>
+      </section>
+    </main>
+    <section class="controls" id="controls" aria-label="播放控制">
+      <div class="progress-row"><span id="currentTime">0:00</span><input id="progress" type="range" min="0" max="100" value="0" step="0.01" aria-label="播放进度" disabled><span id="duration">0:00</span></div>
+      <div class="transport"><button class="control mode-control" id="modeButton" aria-label="顺序播放"><span id="modeIcon" aria-hidden="true">→</span><small id="modeLabel">顺序</small></button><button class="control" id="prevButton" aria-label="上一首">⏮</button><button class="control play" id="playButton" aria-label="播放">▶</button><button class="control" id="nextButton" aria-label="下一首">⏭</button><button class="control queue-control" id="queueButton" aria-label="打开播放队列" aria-controls="playbackQueueDialog" aria-haspopup="dialog" aria-expanded="false"><span aria-hidden="true">☷</span><small>队列</small></button></div>
+    </section>
+  </div>
+  <dialog class="queue-dialog" id="playbackQueueDialog" aria-labelledby="queueTitle" aria-describedby="queueSummary">
+    <div class="queue-heading"><div><h2 id="queueTitle">播放队列</h2><p id="queueSummary">赵雷 · 31 首</p></div><div class="queue-heading-actions"><button class="subtle-button" id="queueLibraryButton" aria-label="打开曲库切换歌手">切换歌手</button><button class="icon-button queue-close" id="closeQueueButton" aria-label="关闭播放队列" autofocus>×</button></div></div>
+    <div class="queue-list" id="playbackQueueList" aria-label="当前播放队列歌曲"></div>
+  </dialog>
+  <dialog class="share-dialog" id="lyricShareDialog" aria-labelledby="shareTitle" aria-describedby="shareSubtitle">
+    <div class="share-heading"><div><h2 id="shareTitle">歌词海报</h2><p id="shareSubtitle"></p></div><button class="icon-button queue-close" id="closeShareButton" aria-label="关闭歌词分享" autofocus>×</button></div>
+    <div class="share-selection" id="shareSelection" aria-label="选择要分享的歌词"></div>
+    <div class="share-preview hidden" id="sharePreview"><p class="share-image-guide" id="shareImageGuide"><strong>分享到微信状态</strong><span>系统分享图片 → 随身听状态分享 → 保存并打开微信状态<br>未安装组件时，可保存图片后从相册分享</span></p><img id="shareImage" alt="歌词分享图片" aria-describedby="shareImageGuide"><p>已生成 JPG 图片，也可保存后从相册发布。</p></div>
+    <div class="share-footer"><p class="share-status" id="shareStatus" role="status"></p><div class="share-selection-actions" id="shareSelectionActions"><span id="shareCount" aria-live="polite">已选 0 句</span><button class="share-primary" id="generateShareButton" disabled>生成图片</button></div><div class="share-preview-actions hidden" id="sharePreviewActions"><div class="share-image-actions"><a class="share-save" id="saveShareImage" download>保存图片</a><button class="share-primary hidden" id="nativeShareButton">系统分享图片</button></div><div class="share-extra-actions"><button class="subtle-button" id="editShareButton">重新选择</button><button class="subtle-button hidden" id="statusVideoButton">生成视频</button><a class="subtle-button hidden" id="saveStatusVideo" download>保存视频</a></div></div></div>
+  </dialog>
+  <div class="toast" id="toast" role="status"></div>
+  <audio id="audio" preload="auto"></audio>
+  <script src="catalog-lizhi.js"></script>
+  <script src="share-card.js?v=34"></script>
+  <script src="share-video.js?v=34"></script>
+  <script src="lyric-share.js?v=34"></script>
+  <script src="app.js?v=35"></script>
+</body>
+</html>
