@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#0b2231">
+  <meta name="theme-color" content="#f1f1f5">
   <meta name="description" content="收听赵雷、李志的歌曲，查看同步歌词，按歌手切换播放队列。">
   <title>歌词随身听</title>
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23101820'/%3E%3Cpath d='M42 15v27.5a9 9 0 1 1-5-8V23l-17 4v20.5a9 9 0 1 1-5-8V23l27-8Z' fill='%23ffc857'/%3E%3C/svg%3E">
+  <link rel="icon" type="image/svg+xml" href="icon.svg?v=38">
   <style>
     :root{color-scheme:dark;--bg:#06131d;--panel:#0b2231;--panel2:#12354a;--ink:#f5fbff;--muted:#9ab5c5;--accent:#8bd9ff;--accent2:#ffd27c;--line:rgba(255,255,255,.11);--safe-top:env(safe-area-inset-top,0px);--safe-bottom:env(safe-area-inset-bottom,0px)}
     *{box-sizing:border-box}
@@ -72,6 +72,7 @@
     .share-preview-actions{display:flex;flex-direction:column;align-items:stretch;gap:10px}.share-image-actions,.share-extra-actions{display:flex;align-items:center;gap:10px}.share-extra-actions{justify-content:center;flex-wrap:wrap}.share-extra-actions a{text-decoration:none;display:inline-flex;align-items:center}.share-extra-actions .subtle-button{font-size:.76rem;border:0;background:transparent}.share-image-actions>*{min-width:0}
     @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
   </style>
+  <link rel="stylesheet" href="apple-ui.css?v=38">
 </head>
 <body>
   <div class="app">
@@ -81,6 +82,7 @@
     </header>
     <main>
       <aside class="sidebar" id="sidebar" aria-label="歌曲列表">
+        <div class="library-heading"><h2>曲库</h2><span>109 首歌曲</span></div>
         <div class="library-tabs" id="libraryTabs" data-active="zhaolei" role="tablist" aria-label="按歌手查看歌曲">
           <span class="library-tab-indicator" aria-hidden="true"></span>
           <button class="library-tab" id="tab-zhaolei" role="tab" aria-selected="true" aria-controls="libraryPanel" tabindex="0">赵雷</button>
@@ -135,5 +137,6 @@
   <script src="share-video.js?v=34"></script>
   <script src="lyric-share.js?v=34"></script>
   <script src="app.js?v=35"></script>
+  <script src="appearance.js?v=38"></script>
 </body>
 </html>

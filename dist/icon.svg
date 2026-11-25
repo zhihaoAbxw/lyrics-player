@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="16" fill="#101820"/>
-  <path d="M42 15v27.5a9 9 0 1 1-5-8V23l-17 4v20.5a9 9 0 1 1-5-8V23l27-8Z" fill="#ffc857"/>
+  <defs>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e9eaf1"/></linearGradient>
+    <linearGradient id="note" x2=".2" y2="1"><stop stop-color="#ff6886"/><stop offset="1" stop-color="#e3244d"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="url(#glass)" stroke="#fff" stroke-width="2"/>
+  <path d="M43 13v29.5a7.5 7.5 0 1 1-4-6.6V22l-17 4v22.5a7.5 7.5 0 1 1-4-6.6V20z" fill="url(#note)"/>
 </svg>
