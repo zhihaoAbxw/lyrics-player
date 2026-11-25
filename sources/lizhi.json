@@ -10,13 +10,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/卡夫卡.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E5%8D%A1%E5%A4%AB%E5%8D%A1.mp3",
       "lyricsUrl": null,
       "bytes": 7292132,
       "gitBlob": "4013ac41df27b984429b62149b324214bee4d174",
       "sha256": "ea327ad59e84fa46dd8163ae1e8b1b38e79995dca5a8ff9cb1157a612d5e5e43",
-      "localBackupPath": "resources/lizhi/001.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E5%8D%A1%E5%A4%AB%E5%8D%A1.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E5%8D%A1%E5%A4%AB%E5%8D%A1.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E5%8D%A1%E5%A4%AB%E5%8D%A1.mp3",
+      "publishedPath": "dist/audio/lizhi/001.mp3",
+      "audioUrl": "audio/lizhi/001.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/001.mp3"
     },
     {
       "id": "lizhi-002",
@@ -26,13 +28,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/欢愉.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E6%AC%A2%E6%84%89.mp3",
       "lyricsUrl": null,
       "bytes": 8514661,
       "gitBlob": "a2b8484a75d29ab9edfb9f066b47de5f593362e5",
       "sha256": "76d96ee8d0d38ac36d3e1fe093348d1a0d9a37f82e58ee934d219eb837f55cea",
-      "localBackupPath": "resources/lizhi/002.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E6%AC%A2%E6%84%89.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E6%AC%A2%E6%84%89.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E6%AC%A2%E6%84%89.mp3",
+      "publishedPath": "dist/audio/lizhi/002.mp3",
+      "audioUrl": "audio/lizhi/002.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/002.mp3"
     },
     {
       "id": "lizhi-003",
@@ -42,13 +46,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/离婚.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%A6%BB%E5%A9%9A.mp3",
       "lyricsUrl": null,
       "bytes": 12049551,
       "gitBlob": "5d5046048f243bdd30324dcb2faea31a97d68f1d",
       "sha256": "89bb45014fe6e60ef221f9f60b126b2c209b0730b57e620c18e36839dc2cfaf2",
-      "localBackupPath": "resources/lizhi/003.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%A6%BB%E5%A9%9A.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%A6%BB%E5%A9%9A.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%A6%BB%E5%A9%9A.mp3",
+      "publishedPath": "dist/audio/lizhi/003.mp3",
+      "audioUrl": "audio/lizhi/003.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/003.mp3"
     },
     {
       "id": "lizhi-004",
@@ -58,13 +64,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/红色气球.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BA%A2%E8%89%B2%E6%B0%94%E7%90%83.mp3",
       "lyricsUrl": null,
       "bytes": 7151073,
       "gitBlob": "6a11b19333cbea7e1f25887bf6c457c77b89db3f",
       "sha256": "df57442ba8380dc8384b5debb9a8c3ea237a95a099337e9306abe8c3ee0541ea",
-      "localBackupPath": "resources/lizhi/004.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BA%A2%E8%89%B2%E6%B0%94%E7%90%83.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BA%A2%E8%89%B2%E6%B0%94%E7%90%83.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BA%A2%E8%89%B2%E6%B0%94%E7%90%83.mp3",
+      "publishedPath": "dist/audio/lizhi/004.mp3",
+      "audioUrl": "audio/lizhi/004.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/004.mp3"
     },
     {
       "id": "lizhi-005",
@@ -74,13 +82,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/罗庄的冬天.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BD%97%E5%BA%84%E7%9A%84%E5%86%AC%E5%A4%A9.mp3",
       "lyricsUrl": null,
       "bytes": 16652332,
       "gitBlob": "bed0b8928d175da59e490fc9b1429694d2ada7df",
       "sha256": "6c28505ea99e5336a80ce7f0500a7ddb9234f0ca316a0a4786d6095a6c8f12bd",
-      "localBackupPath": "resources/lizhi/005.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BD%97%E5%BA%84%E7%9A%84%E5%86%AC%E5%A4%A9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BD%97%E5%BA%84%E7%9A%84%E5%86%AC%E5%A4%A9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E7%BD%97%E5%BA%84%E7%9A%84%E5%86%AC%E5%A4%A9.mp3",
+      "publishedPath": "dist/audio/lizhi/005.mp3",
+      "audioUrl": "audio/lizhi/005.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/005.mp3"
     },
     {
       "id": "lizhi-006",
@@ -90,13 +100,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/被禁忌的游戏.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F.mp3",
       "lyricsUrl": null,
       "bytes": 15329514,
       "gitBlob": "8bb813ddedbb2737035b3320b86bc92e0e730252",
       "sha256": "89ae410b72a8d5cd0a802273e18bcd3cc7ac41fb16b940757702ec6da538bcf3",
-      "localBackupPath": "resources/lizhi/006.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F.mp3",
+      "publishedPath": "dist/audio/lizhi/006.mp3",
+      "audioUrl": "audio/lizhi/006.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/006.mp3"
     },
     {
       "id": "lizhi-007",
@@ -106,13 +118,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/阿兰.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%98%BF%E5%85%B0.mp3",
       "lyricsUrl": null,
       "bytes": 6860588,
       "gitBlob": "2ea924b08740d5e1ba454379a80ce7f8069aa142",
       "sha256": "ea65b0f6b1f6ba913a20a329b55184ca099cc5fb61c291b9145049fc2e0951fe",
-      "localBackupPath": "resources/lizhi/007.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%98%BF%E5%85%B0.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%98%BF%E5%85%B0.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%98%BF%E5%85%B0.mp3",
+      "publishedPath": "dist/audio/lizhi/007.mp3",
+      "audioUrl": "audio/lizhi/007.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/007.mp3"
     },
     {
       "id": "lizhi-008",
@@ -122,13 +136,15 @@
       "artist": "李志",
       "album": "被禁忌的游戏",
       "sourcePath": "publish/被禁忌的游戏/黑色信封.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%BB%91%E8%89%B2%E4%BF%A1%E5%B0%81.mp3",
       "lyricsUrl": null,
       "bytes": 11706828,
       "gitBlob": "605726f982806c4832d3f852d613cc81d9bad740",
       "sha256": "1c927718b3c27b64fb9126d03eb24dd66d7c5e1d2320ede5fa3363934ab3d487",
-      "localBackupPath": "resources/lizhi/008.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%BB%91%E8%89%B2%E4%BF%A1%E5%B0%81.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%BB%91%E8%89%B2%E4%BF%A1%E5%B0%81.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E9%BB%91%E8%89%B2%E4%BF%A1%E5%B0%81.mp3",
+      "publishedPath": "dist/audio/lizhi/008.mp3",
+      "audioUrl": "audio/lizhi/008.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/008.mp3"
     },
     {
       "id": "lizhi-009",
@@ -138,13 +154,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/你离开了南京，从此没有人和我说话.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E4%BD%A0%E7%A6%BB%E5%BC%80%E4%BA%86%E5%8D%97%E4%BA%AC%EF%BC%8C%E4%BB%8E%E6%AD%A4%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%92%8C%E6%88%91%E8%AF%B4%E8%AF%9D.mp3",
       "lyricsUrl": null,
       "bytes": 3198704,
       "gitBlob": "a32148dbf7b602933e1797209fad53b1beaa8c59",
       "sha256": "890272a0b32d99a2ccb99c61787dbea517347cf6dae42cbbf41b7831dc968469",
-      "localBackupPath": "resources/lizhi/009.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E4%BD%A0%E7%A6%BB%E5%BC%80%E4%BA%86%E5%8D%97%E4%BA%AC%EF%BC%8C%E4%BB%8E%E6%AD%A4%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%92%8C%E6%88%91%E8%AF%B4%E8%AF%9D.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E4%BD%A0%E7%A6%BB%E5%BC%80%E4%BA%86%E5%8D%97%E4%BA%AC%EF%BC%8C%E4%BB%8E%E6%AD%A4%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%92%8C%E6%88%91%E8%AF%B4%E8%AF%9D.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E4%BD%A0%E7%A6%BB%E5%BC%80%E4%BA%86%E5%8D%97%E4%BA%AC%EF%BC%8C%E4%BB%8E%E6%AD%A4%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%92%8C%E6%88%91%E8%AF%B4%E8%AF%9D.mp3",
+      "publishedPath": "dist/audio/lizhi/009.mp3",
+      "audioUrl": "audio/lizhi/009.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/009.mp3"
     },
     {
       "id": "lizhi-010",
@@ -154,13 +172,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/想起了她.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%83%B3%E8%B5%B7%E4%BA%86%E5%A5%B9.mp3",
       "lyricsUrl": null,
       "bytes": 11265248,
       "gitBlob": "0728e6e1da7aede03cd0dd43997a018c41282656",
       "sha256": "e4d29fa5a99ef445e312a4bd8e276874b92874acaf1db3bb1b9b7ac43c0b34b4",
-      "localBackupPath": "resources/lizhi/010.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%83%B3%E8%B5%B7%E4%BA%86%E5%A5%B9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%83%B3%E8%B5%B7%E4%BA%86%E5%A5%B9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%83%B3%E8%B5%B7%E4%BA%86%E5%A5%B9.mp3",
+      "publishedPath": "dist/audio/lizhi/010.mp3",
+      "audioUrl": "audio/lizhi/010.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/010.mp3"
     },
     {
       "id": "lizhi-011",
@@ -170,13 +190,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/斜.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%96%9C.mp3",
       "lyricsUrl": null,
       "bytes": 8995704,
       "gitBlob": "552782c55306d68fbd9e7cdd15f2e9a93e7a5e87",
       "sha256": "ff19972d4dd0f733f7ad00979b1f636ba48eb5055ed18d88ac62631b5b74b5d4",
-      "localBackupPath": "resources/lizhi/011.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%96%9C.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%96%9C.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%96%9C.mp3",
+      "publishedPath": "dist/audio/lizhi/011.mp3",
+      "audioUrl": "audio/lizhi/011.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/011.mp3"
     },
     {
       "id": "lizhi-012",
@@ -186,13 +208,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/春末的南方城市.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%98%A5%E6%9C%AB%E7%9A%84%E5%8D%97%E6%96%B9%E5%9F%8E%E5%B8%82.mp3",
       "lyricsUrl": null,
       "bytes": 10195279,
       "gitBlob": "9ebd089bdfef5fba24aaf2b6cacdb48028244080",
       "sha256": "74e7451ba31369c82a7c250d21578dc26aa0b3538742fa275d649164b3fda0a2",
-      "localBackupPath": "resources/lizhi/012.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%98%A5%E6%9C%AB%E7%9A%84%E5%8D%97%E6%96%B9%E5%9F%8E%E5%B8%82.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%98%A5%E6%9C%AB%E7%9A%84%E5%8D%97%E6%96%B9%E5%9F%8E%E5%B8%82.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%98%A5%E6%9C%AB%E7%9A%84%E5%8D%97%E6%96%B9%E5%9F%8E%E5%B8%82.mp3",
+      "publishedPath": "dist/audio/lizhi/012.mp3",
+      "audioUrl": "audio/lizhi/012.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/012.mp3"
     },
     {
       "id": "lizhi-013",
@@ -202,13 +226,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/暧昧.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9A%A7%E6%98%A7.mp3",
       "lyricsUrl": null,
       "bytes": 9031232,
       "gitBlob": "cca2f2bb36ef99fa3db1b85da29ec92bc6a53980",
       "sha256": "ada859c7b614a41f336d1c2470248fe9e56277c1cb1415e0763ba84e99f47c6e",
-      "localBackupPath": "resources/lizhi/013.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9A%A7%E6%98%A7.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9A%A7%E6%98%A7.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9A%A7%E6%98%A7.mp3",
+      "publishedPath": "dist/audio/lizhi/013.mp3",
+      "audioUrl": "audio/lizhi/013.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/013.mp3"
     },
     {
       "id": "lizhi-014",
@@ -218,13 +244,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/来了.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9D%A5%E4%BA%86.mp3",
       "lyricsUrl": null,
       "bytes": 12787640,
       "gitBlob": "89c95d4c5f9b06399f7ea76b9c784ef902a37c74",
       "sha256": "1bda45fee02e5f64389b398beae81a41d265e448052a213555e7d0793f4d3757",
-      "localBackupPath": "resources/lizhi/014.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9D%A5%E4%BA%86.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9D%A5%E4%BA%86.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%9D%A5%E4%BA%86.mp3",
+      "publishedPath": "dist/audio/lizhi/014.mp3",
+      "audioUrl": "audio/lizhi/014.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/014.mp3"
     },
     {
       "id": "lizhi-015",
@@ -234,13 +262,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/梵高先生.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F.mp3",
       "lyricsUrl": null,
       "bytes": 10315436,
       "gitBlob": "3cb84e49fb78cb8bae201a31712679ce0e91bdc3",
       "sha256": "ce3bc35666c682678f0758603574a28791ae48883b84977fd70b1d253fe73063",
-      "localBackupPath": "resources/lizhi/015.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F.mp3",
+      "publishedPath": "dist/audio/lizhi/015.mp3",
+      "audioUrl": "audio/lizhi/015.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/015.mp3"
     },
     {
       "id": "lizhi-016",
@@ -250,13 +280,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/董卓瑶.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E8%91%A3%E5%8D%93%E7%91%B6.mp3",
       "lyricsUrl": null,
       "bytes": 8237132,
       "gitBlob": "a98edce97e7e2b076c9e6c68ea03e89fb021360b",
       "sha256": "8807c045f03c7e1d8cf79b3a35b4265d7977103f758da65c18cef1df582301bb",
-      "localBackupPath": "resources/lizhi/016.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E8%91%A3%E5%8D%93%E7%91%B6.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E8%91%A3%E5%8D%93%E7%91%B6.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E8%91%A3%E5%8D%93%E7%91%B6.mp3",
+      "publishedPath": "dist/audio/lizhi/016.mp3",
+      "audioUrl": "audio/lizhi/016.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/016.mp3"
     },
     {
       "id": "lizhi-017",
@@ -266,13 +298,15 @@
       "artist": "李志",
       "album": "梵高先生",
       "sourcePath": "publish/梵高先生/广场.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E5%B9%BF%E5%9C%BA.mp3",
       "lyricsUrl": null,
       "bytes": 3059182,
       "gitBlob": "c80f652c068e294dbbd3652f838df09951a9307d",
       "sha256": "1fc7aa9b62095dd55d6ecd71f25ea761819afefaa9b4b6d05696f9ab03882a11",
-      "localBackupPath": "resources/lizhi/017.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E5%B9%BF%E5%9C%BA.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E5%B9%BF%E5%9C%BA.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F/%E5%B9%BF%E5%9C%BA.mp3",
+      "publishedPath": "dist/audio/lizhi/017.mp3",
+      "audioUrl": "audio/lizhi/017.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/017.mp3"
     },
     {
       "id": "lizhi-018",
@@ -282,13 +316,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/交河.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%A4%E6%B2%B3.mp3",
       "lyricsUrl": null,
       "bytes": 8983021,
       "gitBlob": "edc740a44ead313f43a303b364ed26a2ba4f49a3",
       "sha256": "c390542e2564e76cae778da70b90950099e9c7d08828969518edd65098c381df",
-      "localBackupPath": "resources/lizhi/018.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%A4%E6%B2%B3.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%A4%E6%B2%B3.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%A4%E6%B2%B3.mp3",
+      "publishedPath": "dist/audio/lizhi/018.mp3",
+      "audioUrl": "audio/lizhi/018.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/018.mp3"
     },
     {
       "id": "lizhi-019",
@@ -298,13 +334,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/人民不需要自由.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
       "lyricsUrl": null,
       "bytes": 11258907,
       "gitBlob": "4ffd4c8a9d49ed7df2ae8a71cc793806acdf13cd",
       "sha256": "02868e692bb602daa40e65e00972ab6b494935ec68c7abf81caaf11ba686779a",
-      "localBackupPath": "resources/lizhi/019.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1.mp3",
+      "publishedPath": "dist/audio/lizhi/019.mp3",
+      "audioUrl": "audio/lizhi/019.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/019.mp3"
     },
     {
       "id": "lizhi-020",
@@ -314,13 +352,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/他们.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BB%96%E4%BB%AC.mp3",
       "lyricsUrl": null,
       "bytes": 11972562,
       "gitBlob": "daa17ebc8ac483f3602af4039f6fb14406bd550f",
       "sha256": "daf37e038b1681c947e719cbf9419899bf8f9d0e374d6923c0cb9e6374cc5eef",
-      "localBackupPath": "resources/lizhi/020.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BB%96%E4%BB%AC.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BB%96%E4%BB%AC.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E4%BB%96%E4%BB%AC.mp3",
+      "publishedPath": "dist/audio/lizhi/020.mp3",
+      "audioUrl": "audio/lizhi/020.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/020.mp3"
     },
     {
       "id": "lizhi-021",
@@ -330,13 +370,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/和你在一起.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3",
       "lyricsUrl": null,
       "bytes": 10323651,
       "gitBlob": "c8d9ab987998bb02d00e4bc85683f639cfa2bfe9",
       "sha256": "e2a569d3d77d4058614d925ab3dcf6913c165738e4ce9f735475ebcf5aa54cc8",
-      "localBackupPath": "resources/lizhi/021.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3",
+      "publishedPath": "dist/audio/lizhi/021.mp3",
+      "audioUrl": "audio/lizhi/021.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/021.mp3"
     },
     {
       "id": "lizhi-022",
@@ -346,13 +388,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/喀纳斯.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%96%80%E7%BA%B3%E6%96%AF.mp3",
       "lyricsUrl": null,
       "bytes": 13045586,
       "gitBlob": "6196e051ef8c0173e66503329648899da26a6bad",
       "sha256": "a4124aa74e549efac5415edfb7e37e259c496ba917462465c109b9da1d55cbab",
-      "localBackupPath": "resources/lizhi/022.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%96%80%E7%BA%B3%E6%96%AF.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%96%80%E7%BA%B3%E6%96%AF.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%96%80%E7%BA%B3%E6%96%AF.mp3",
+      "publishedPath": "dist/audio/lizhi/022.mp3",
+      "audioUrl": "audio/lizhi/022.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/022.mp3"
     },
     {
       "id": "lizhi-023",
@@ -362,13 +406,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/妈妈.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%A6%88%E5%A6%88.mp3",
       "lyricsUrl": null,
       "bytes": 10010156,
       "gitBlob": "1852879eee7359cefd0bddc43b93a7b8488b04ee",
       "sha256": "09550bedaee99f0c9b170d5f8cbef7ef71d97bcd41b4ca631e601b55dd2afe39",
-      "localBackupPath": "resources/lizhi/023.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%A6%88%E5%A6%88.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%A6%88%E5%A6%88.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E5%A6%88%E5%A6%88.mp3",
+      "publishedPath": "dist/audio/lizhi/023.mp3",
+      "audioUrl": "audio/lizhi/023.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/023.mp3"
     },
     {
       "id": "lizhi-024",
@@ -378,13 +424,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/我们不能失去信仰—献给刘艺.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%B0%E2%80%94%E7%8C%AE%E7%BB%99%E5%88%98%E8%89%BA.mp3",
       "lyricsUrl": null,
       "bytes": 10322646,
       "gitBlob": "fcae78b0f4b7d87cf9ce4365fbe3453a2bbf67aa",
       "sha256": "5b2d3290d75efa262b49696760b0ceb7d84a85851af1def5290ecd4789320811",
-      "localBackupPath": "resources/lizhi/024.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%B0%E2%80%94%E7%8C%AE%E7%BB%99%E5%88%98%E8%89%BA.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%B0%E2%80%94%E7%8C%AE%E7%BB%99%E5%88%98%E8%89%BA.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%B0%E2%80%94%E7%8C%AE%E7%BB%99%E5%88%98%E8%89%BA.mp3",
+      "publishedPath": "dist/audio/lizhi/024.mp3",
+      "audioUrl": "audio/lizhi/024.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/024.mp3"
     },
     {
       "id": "lizhi-025",
@@ -394,13 +442,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/这个世界会好吗.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
       "lyricsUrl": null,
       "bytes": 9639410,
       "gitBlob": "f306ebd45f2126666847991d7e8c0f76913a5df3",
       "sha256": "7347909af865f962018c9ed4232a473693d67c3d040063f891f43ae45b8d9f6b",
-      "localBackupPath": "resources/lizhi/025.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97.mp3",
+      "publishedPath": "dist/audio/lizhi/025.mp3",
+      "audioUrl": "audio/lizhi/025.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/025.mp3"
     },
     {
       "id": "lizhi-026",
@@ -410,13 +460,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/海的女儿.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%B5%B7%E7%9A%84%E5%A5%B3%E5%84%BF.mp3",
       "lyricsUrl": null,
       "bytes": 8683140,
       "gitBlob": "e464fc832d486ccf24f48f7c7540736425287afb",
       "sha256": "32e29833d21337883e83bd129bf6d2b9f549de297228c70c92f7432207802f17",
-      "localBackupPath": "resources/lizhi/026.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%B5%B7%E7%9A%84%E5%A5%B3%E5%84%BF.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%B5%B7%E7%9A%84%E5%A5%B3%E5%84%BF.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E6%B5%B7%E7%9A%84%E5%A5%B3%E5%84%BF.mp3",
+      "publishedPath": "dist/audio/lizhi/026.mp3",
+      "audioUrl": "audio/lizhi/026.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/026.mp3"
     },
     {
       "id": "lizhi-027",
@@ -426,13 +478,15 @@
       "artist": "李志",
       "album": "这个世界会好吗",
       "sourcePath": "publish/这个世界会好吗/翁庆年的六英镑.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E7%BF%81%E5%BA%86%E5%B9%B4%E7%9A%84%E5%85%AD%E8%8B%B1%E9%95%91.mp3",
       "lyricsUrl": null,
       "bytes": 10505468,
       "gitBlob": "859bba63d076a156d7026106b31a0b30eecf032a",
       "sha256": "23be4109f23c1136b94cfca9ef3f00320d3ed86def4bc8077bf9864eae1272d0",
-      "localBackupPath": "resources/lizhi/027.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E7%BF%81%E5%BA%86%E5%B9%B4%E7%9A%84%E5%85%AD%E8%8B%B1%E9%95%91.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E7%BF%81%E5%BA%86%E5%B9%B4%E7%9A%84%E5%85%AD%E8%8B%B1%E9%95%91.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97/%E7%BF%81%E5%BA%86%E5%B9%B4%E7%9A%84%E5%85%AD%E8%8B%B1%E9%95%91.mp3",
+      "publishedPath": "dist/audio/lizhi/027.mp3",
+      "audioUrl": "audio/lizhi/027.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/027.mp3"
     },
     {
       "id": "lizhi-028",
@@ -442,13 +496,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/1990年的春天.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/1990%E5%B9%B4%E7%9A%84%E6%98%A5%E5%A4%A9.mp3",
       "lyricsUrl": null,
       "bytes": 10922740,
       "gitBlob": "a2166fcc0b4bf830cc771c2d5fbd88b8f5092510",
       "sha256": "f6d35266c285d43d17ee5bf9782e7dffd49c2d3be0351ff9b9d6e6f626a81d27",
-      "localBackupPath": "resources/lizhi/028.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/1990%E5%B9%B4%E7%9A%84%E6%98%A5%E5%A4%A9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/1990%E5%B9%B4%E7%9A%84%E6%98%A5%E5%A4%A9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/1990%E5%B9%B4%E7%9A%84%E6%98%A5%E5%A4%A9.mp3",
+      "publishedPath": "dist/audio/lizhi/028.mp3",
+      "audioUrl": "audio/lizhi/028.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/028.mp3"
     },
     {
       "id": "lizhi-029",
@@ -458,13 +514,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/倒影.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%80%92%E5%BD%B1.mp3",
       "lyricsUrl": null,
       "bytes": 7457831,
       "gitBlob": "0993d108044e0af3a764d211a8ca4b37f6291c78",
       "sha256": "c5a27a0e8418a0558cdd969c63840e94776910feb14ff7fca614a7b82df6389c",
-      "localBackupPath": "resources/lizhi/029.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%80%92%E5%BD%B1.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%80%92%E5%BD%B1.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%80%92%E5%BD%B1.mp3",
+      "publishedPath": "dist/audio/lizhi/029.mp3",
+      "audioUrl": "audio/lizhi/029.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/029.mp3"
     },
     {
       "id": "lizhi-030",
@@ -474,13 +532,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/再见.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%8D%E8%A7%81.mp3",
       "lyricsUrl": null,
       "bytes": 3698270,
       "gitBlob": "4893c52ba6f6406e952a9f3f054490e78838fd3f",
       "sha256": "04d639e6af1ce88c51359332917198df38dd36e663f3e29a79d6d64fd8f8c927",
-      "localBackupPath": "resources/lizhi/030.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%8D%E8%A7%81.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%8D%E8%A7%81.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%8D%E8%A7%81.mp3",
+      "publishedPath": "dist/audio/lizhi/030.mp3",
+      "audioUrl": "audio/lizhi/030.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/030.mp3"
     },
     {
       "id": "lizhi-031",
@@ -490,13 +550,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/冬妮娅.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%AC%E5%A6%AE%E5%A8%85.mp3",
       "lyricsUrl": null,
       "bytes": 9440007,
       "gitBlob": "27ca9388cdc2d7e734c36840425faeae3d8ece0e",
       "sha256": "c65570bf87072473a0587fd2c3b4f3145fc7e5f469a75631a8fa72664cd2d71f",
-      "localBackupPath": "resources/lizhi/031.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%AC%E5%A6%AE%E5%A8%85.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%AC%E5%A6%AE%E5%A8%85.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%86%AC%E5%A6%AE%E5%A8%85.mp3",
+      "publishedPath": "dist/audio/lizhi/031.mp3",
+      "audioUrl": "audio/lizhi/031.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/031.mp3"
     },
     {
       "id": "lizhi-032",
@@ -506,13 +568,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/听妈妈讲那过去的事情.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%90%AC%E5%A6%88%E5%A6%88%E8%AE%B2%E9%82%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BA%8B%E6%83%85.mp3",
       "lyricsUrl": null,
       "bytes": 6931241,
       "gitBlob": "64704a920675758f32afb08888ae280b96afd81e",
       "sha256": "66a69f2cbfef8a9ab97a13590bfb6c9d7331abe380ede0bb8a5e0b2c58f49dd1",
-      "localBackupPath": "resources/lizhi/032.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%90%AC%E5%A6%88%E5%A6%88%E8%AE%B2%E9%82%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BA%8B%E6%83%85.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%90%AC%E5%A6%88%E5%A6%88%E8%AE%B2%E9%82%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BA%8B%E6%83%85.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%90%AC%E5%A6%88%E5%A6%88%E8%AE%B2%E9%82%A3%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BA%8B%E6%83%85.mp3",
+      "publishedPath": "dist/audio/lizhi/032.mp3",
+      "audioUrl": "audio/lizhi/032.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/032.mp3"
     },
     {
       "id": "lizhi-033",
@@ -522,13 +586,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/在那遥远的地方.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%9C%A8%E9%82%A3%E9%81%A5%E8%BF%9C%E7%9A%84%E5%9C%B0%E6%96%B9.mp3",
       "lyricsUrl": null,
       "bytes": 7014806,
       "gitBlob": "5d52a29657372ea5b4aa60c0b522262e08d2cf62",
       "sha256": "0149d8292a70b6d40507a4ceeb8539f86c52790105804402d439b6cf5293df50",
-      "localBackupPath": "resources/lizhi/033.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%9C%A8%E9%82%A3%E9%81%A5%E8%BF%9C%E7%9A%84%E5%9C%B0%E6%96%B9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%9C%A8%E9%82%A3%E9%81%A5%E8%BF%9C%E7%9A%84%E5%9C%B0%E6%96%B9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%9C%A8%E9%82%A3%E9%81%A5%E8%BF%9C%E7%9A%84%E5%9C%B0%E6%96%B9.mp3",
+      "publishedPath": "dist/audio/lizhi/033.mp3",
+      "audioUrl": "audio/lizhi/033.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/033.mp3"
     },
     {
       "id": "lizhi-034",
@@ -538,13 +604,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/天空之城.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.mp3",
       "lyricsUrl": null,
       "bytes": 9063843,
       "gitBlob": "9e93e1396ae2ef0438c2dd109b359b450a671d42",
       "sha256": "8d2a0635ac1e008e0eadeb68259da29476d380f55b8ffa1d54c18d08bd118bba",
-      "localBackupPath": "resources/lizhi/034.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.mp3",
+      "publishedPath": "dist/audio/lizhi/034.mp3",
+      "audioUrl": "audio/lizhi/034.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/034.mp3"
     },
     {
       "id": "lizhi-035",
@@ -554,13 +622,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/家乡.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%AE%B6%E4%B9%A1.mp3",
       "lyricsUrl": null,
       "bytes": 13874529,
       "gitBlob": "f7222b5a561a29880f7e7871f9a1fcd084d3343f",
       "sha256": "5e0f792241666fb49260539b818724d0f800f114f9951c89ac472c7c774088e2",
-      "localBackupPath": "resources/lizhi/035.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%AE%B6%E4%B9%A1.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%AE%B6%E4%B9%A1.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E5%AE%B6%E4%B9%A1.mp3",
+      "publishedPath": "dist/audio/lizhi/035.mp3",
+      "audioUrl": "audio/lizhi/035.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/035.mp3"
     },
     {
       "id": "lizhi-036",
@@ -570,13 +640,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/思念观世音.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
       "lyricsUrl": null,
       "bytes": 8401382,
       "gitBlob": "9c566716082efc2c7826fd56ea2103f961efb83c",
       "sha256": "d9bd0d26cfebad8f0425019557820e0c8591e441ab0cd4015b87e46757d12e31",
-      "localBackupPath": "resources/lizhi/036.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%80%9D%E5%BF%B5%E8%A7%82%E4%B8%96%E9%9F%B3.mp3",
+      "publishedPath": "dist/audio/lizhi/036.mp3",
+      "audioUrl": "audio/lizhi/036.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/036.mp3"
     },
     {
       "id": "lizhi-037",
@@ -586,13 +658,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/意味.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%84%8F%E5%91%B3.mp3",
       "lyricsUrl": null,
       "bytes": 8211183,
       "gitBlob": "4a23c60739e57083da4ff323a3a5ac69be538c2a",
       "sha256": "f0ea2719f63c8793ce1a119532314d864950ba1d80f375013dce2e1c4102920b",
-      "localBackupPath": "resources/lizhi/037.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%84%8F%E5%91%B3.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%84%8F%E5%91%B3.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E6%84%8F%E5%91%B3.mp3",
+      "publishedPath": "dist/audio/lizhi/037.mp3",
+      "audioUrl": "audio/lizhi/037.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/037.mp3"
     },
     {
       "id": "lizhi-038",
@@ -602,13 +676,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/爱.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%88%B1.mp3",
       "lyricsUrl": null,
       "bytes": 8175654,
       "gitBlob": "1056e5d0c060ee608225773c1fcf12c481ae2bf9",
       "sha256": "875ad51a27be4d651287f835f1b20acd79efcf649ac3cc25a8cb74fe179747dd",
-      "localBackupPath": "resources/lizhi/038.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%88%B1.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%88%B1.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%88%B1.mp3",
+      "publishedPath": "dist/audio/lizhi/038.mp3",
+      "audioUrl": "audio/lizhi/038.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/038.mp3"
     },
     {
       "id": "lizhi-039",
@@ -618,13 +694,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/米店.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%B1%B3%E5%BA%97.mp3",
       "lyricsUrl": null,
       "bytes": 8583168,
       "gitBlob": "3bd01d1815afe6ff2149837acb018c7c3a5b6fcf",
       "sha256": "d349b7856b6f69b0bb0417a8498b32b8cda055a1ef56764502e08fe4ed05dcc1",
-      "localBackupPath": "resources/lizhi/039.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%B1%B3%E5%BA%97.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%B1%B3%E5%BA%97.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%B1%B3%E5%BA%97.mp3",
+      "publishedPath": "dist/audio/lizhi/039.mp3",
+      "audioUrl": "audio/lizhi/039.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/039.mp3"
     },
     {
       "id": "lizhi-040",
@@ -634,13 +712,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/结婚.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BB%93%E5%A9%9A.mp3",
       "lyricsUrl": null,
       "bytes": 14247558,
       "gitBlob": "02c8370613a680ccf69c7e0f7b1c22df29dafa0f",
       "sha256": "86a9e42036b6eaac42c0177c56877658393b4412b9bbac0ede8a8ee9baed56ad",
-      "localBackupPath": "resources/lizhi/040.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BB%93%E5%A9%9A.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BB%93%E5%A9%9A.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BB%93%E5%A9%9A.mp3",
+      "publishedPath": "dist/audio/lizhi/040.mp3",
+      "audioUrl": "audio/lizhi/040.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/040.mp3"
     },
     {
       "id": "lizhi-041",
@@ -650,13 +730,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/美丽的梭罗河.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BE%8E%E4%B8%BD%E7%9A%84%E6%A2%AD%E7%BD%97%E6%B2%B3.mp3",
       "lyricsUrl": null,
       "bytes": 6116192,
       "gitBlob": "41ecf7551787c7c901aa08bbb56213778b48e74b",
       "sha256": "bfef8adb0edf5d1711262f6784a31d2601ebc9ffaa2e43f8f5a5fdb783ae7718",
-      "localBackupPath": "resources/lizhi/041.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BE%8E%E4%B8%BD%E7%9A%84%E6%A2%AD%E7%BD%97%E6%B2%B3.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BE%8E%E4%B8%BD%E7%9A%84%E6%A2%AD%E7%BD%97%E6%B2%B3.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E7%BE%8E%E4%B8%BD%E7%9A%84%E6%A2%AD%E7%BD%97%E6%B2%B3.mp3",
+      "publishedPath": "dist/audio/lizhi/041.mp3",
+      "audioUrl": "audio/lizhi/041.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/041.mp3"
     },
     {
       "id": "lizhi-042",
@@ -666,13 +748,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/苍井空.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E8%8B%8D%E4%BA%95%E7%A9%BA.mp3",
       "lyricsUrl": null,
       "bytes": 10554911,
       "gitBlob": "7932ef8cff3541577d64dd02c38abe2443a00b10",
       "sha256": "446a3d5078847fc9a6c51a7b20f25d344c56b608d7012eeb01b42c09bc564433",
-      "localBackupPath": "resources/lizhi/042.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E8%8B%8D%E4%BA%95%E7%A9%BA.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E8%8B%8D%E4%BA%95%E7%A9%BA.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E8%8B%8D%E4%BA%95%E7%A9%BA.mp3",
+      "publishedPath": "dist/audio/lizhi/042.mp3",
+      "audioUrl": "audio/lizhi/042.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/042.mp3"
     },
     {
       "id": "lizhi-043",
@@ -682,13 +766,15 @@
       "artist": "李志",
       "album": "我爱南京",
       "sourcePath": "publish/我爱南京/鸵鸟.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E9%B8%B5%E9%B8%9F.mp3",
       "lyricsUrl": null,
       "bytes": 10830742,
       "gitBlob": "d4129305c4f955ef4fcacafb57351ccd18ae8008",
       "sha256": "edb4a756fa657c8206be4a7146179e26b72bffe03a824d489bfc1b9c33a39644",
-      "localBackupPath": "resources/lizhi/043.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E9%B8%B5%E9%B8%9F.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E9%B8%B5%E9%B8%9F.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/%E9%B8%B5%E9%B8%9F.mp3",
+      "publishedPath": "dist/audio/lizhi/043.mp3",
+      "audioUrl": "audio/lizhi/043.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/043.mp3"
     },
     {
       "id": "lizhi-044",
@@ -698,13 +784,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/关于郑州的记忆.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%85%B3%E4%BA%8E%E9%83%91%E5%B7%9E%E7%9A%84%E8%AE%B0%E5%BF%86.mp3",
       "lyricsUrl": null,
       "bytes": 9347012,
       "gitBlob": "9b4d6b8bc543f486078ffbd16092c2ed09aa9cb5",
       "sha256": "2790c02cc737dcec1e861b18f083779bd629795a226fbaefefc605e40787b3b4",
-      "localBackupPath": "resources/lizhi/044.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%85%B3%E4%BA%8E%E9%83%91%E5%B7%9E%E7%9A%84%E8%AE%B0%E5%BF%86.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%85%B3%E4%BA%8E%E9%83%91%E5%B7%9E%E7%9A%84%E8%AE%B0%E5%BF%86.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%85%B3%E4%BA%8E%E9%83%91%E5%B7%9E%E7%9A%84%E8%AE%B0%E5%BF%86.mp3",
+      "publishedPath": "dist/audio/lizhi/044.mp3",
+      "audioUrl": "audio/lizhi/044.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/044.mp3"
     },
     {
       "id": "lizhi-045",
@@ -714,13 +802,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/墙上的向日葵.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A2%99%E4%B8%8A%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5.mp3",
       "lyricsUrl": null,
       "bytes": 12066880,
       "gitBlob": "32563c657f86b059ac3c82efe2e23e396296bdc1",
       "sha256": "d8d92f77401758383c6e8892b784eef6269f018fa92f206eaf9bfe6de139840c",
-      "localBackupPath": "resources/lizhi/045.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A2%99%E4%B8%8A%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A2%99%E4%B8%8A%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A2%99%E4%B8%8A%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5.mp3",
+      "publishedPath": "dist/audio/lizhi/045.mp3",
+      "audioUrl": "audio/lizhi/045.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/045.mp3"
     },
     {
       "id": "lizhi-046",
@@ -730,13 +820,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/夜.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A4%9C.mp3",
       "lyricsUrl": null,
       "bytes": 11214193,
       "gitBlob": "0778d067d7384f9d43aff81bb2ac707349e9c673",
       "sha256": "2b15f9c7025e239e07fd0f04b38fc1028cc5004ead2962190aaf2518d0dda3d4",
-      "localBackupPath": "resources/lizhi/046.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A4%9C.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A4%9C.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A4%9C.mp3",
+      "publishedPath": "dist/audio/lizhi/046.mp3",
+      "audioUrl": "audio/lizhi/046.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/046.mp3"
     },
     {
       "id": "lizhi-047",
@@ -746,13 +838,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/她.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A5%B9.mp3",
       "lyricsUrl": null,
       "bytes": 10120185,
       "gitBlob": "2bc5875cef9caecd2ad7005c445cfe26519456b8",
       "sha256": "48cfbe192584038e1e154dd4d90bccb3bcfe38997bbc301ae30787151e14b981",
-      "localBackupPath": "resources/lizhi/047.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A5%B9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A5%B9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%A5%B9.mp3",
+      "publishedPath": "dist/audio/lizhi/047.mp3",
+      "audioUrl": "audio/lizhi/047.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/047.mp3"
     },
     {
       "id": "lizhi-048",
@@ -762,13 +856,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/带亲.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%B8%A6%E4%BA%B2.mp3",
       "lyricsUrl": null,
       "bytes": 9105591,
       "gitBlob": "a80473ce456116cea3b4d211cd23de13c8aac505",
       "sha256": "36e07f9092b5a9f3d0e70dc0fbf514a6c607e8085f9d22dfb19b8a17e793cee7",
-      "localBackupPath": "resources/lizhi/048.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%B8%A6%E4%BA%B2.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%B8%A6%E4%BA%B2.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%B8%A6%E4%BA%B2.mp3",
+      "publishedPath": "dist/audio/lizhi/048.mp3",
+      "audioUrl": "audio/lizhi/048.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/048.mp3"
     },
     {
       "id": "lizhi-049",
@@ -778,13 +874,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/忽然.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%BF%BD%E7%84%B6.mp3",
       "lyricsUrl": null,
       "bytes": 5295893,
       "gitBlob": "e6bfaeec4fb97077da3830070d6955b3dd3d9175",
       "sha256": "4b045ecae7aa12dfb263a96f73e7c2d3af4627820f78a4ac8585da2beb085bde",
-      "localBackupPath": "resources/lizhi/049.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%BF%BD%E7%84%B6.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%BF%BD%E7%84%B6.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E5%BF%BD%E7%84%B6.mp3",
+      "publishedPath": "dist/audio/lizhi/049.mp3",
+      "audioUrl": "audio/lizhi/049.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/049.mp3"
     },
     {
       "id": "lizhi-050",
@@ -794,13 +892,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/秋天的老狼.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E7%A7%8B%E5%A4%A9%E7%9A%84%E8%80%81%E7%8B%BC.mp3",
       "lyricsUrl": null,
       "bytes": 9672996,
       "gitBlob": "a5bb35562c732a4e985b5532f45e1d5cb5a81282",
       "sha256": "bd8c7341a451b048a04d2f483cf6380e6c8f9860087b27a8bbca8ad62de3e41b",
-      "localBackupPath": "resources/lizhi/050.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E7%A7%8B%E5%A4%A9%E7%9A%84%E8%80%81%E7%8B%BC.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E7%A7%8B%E5%A4%A9%E7%9A%84%E8%80%81%E7%8B%BC.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E7%A7%8B%E5%A4%A9%E7%9A%84%E8%80%81%E7%8B%BC.mp3",
+      "publishedPath": "dist/audio/lizhi/050.mp3",
+      "audioUrl": "audio/lizhi/050.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/050.mp3"
     },
     {
       "id": "lizhi-051",
@@ -810,13 +910,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/路.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E8%B7%AF.mp3",
       "lyricsUrl": null,
       "bytes": 5955249,
       "gitBlob": "2db3f0a675e16774128161394ae65c8e5d834a29",
       "sha256": "4e3cadde2e2f18d3f6e6e55b06a546716c6500407ac2fcf6c8c675cedb504982",
-      "localBackupPath": "resources/lizhi/051.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E8%B7%AF.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E8%B7%AF.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E8%B7%AF.mp3",
+      "publishedPath": "dist/audio/lizhi/051.mp3",
+      "audioUrl": "audio/lizhi/051.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/051.mp3"
     },
     {
       "id": "lizhi-052",
@@ -826,13 +928,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/铅笔.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94.mp3",
       "lyricsUrl": null,
       "bytes": 11206881,
       "gitBlob": "47f383a58f4d03bb07dec109e3a4834be535a834",
       "sha256": "a607aa994eff8a75b7d8fb785c17c736feec28b5e2ea649c7fc97d0e6f590f25",
-      "localBackupPath": "resources/lizhi/052.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94.mp3",
+      "publishedPath": "dist/audio/lizhi/052.mp3",
+      "audioUrl": "audio/lizhi/052.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/052.mp3"
     },
     {
       "id": "lizhi-053",
@@ -842,13 +946,15 @@
       "artist": "李志",
       "album": "你好，郑州",
       "sourcePath": "publish/你好，郑州/铅笔(吉松浩版).mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94%28%E5%90%89%E6%9D%BE%E6%B5%A9%E7%89%88%29.mp3",
       "lyricsUrl": null,
       "bytes": 11284237,
       "gitBlob": "8c51ebf20832bb2ccbb39c8f9fc7717bcd509185",
       "sha256": "7cf22669e8ac066ac7803fc92b084b2c0f078f75f546defa4c6722861d32cbd1",
-      "localBackupPath": "resources/lizhi/053.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94%28%E5%90%89%E6%9D%BE%E6%B5%A9%E7%89%88%29.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94%28%E5%90%89%E6%9D%BE%E6%B5%A9%E7%89%88%29.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%83%91%E5%B7%9E/%E9%93%85%E7%AC%94%28%E5%90%89%E6%9D%BE%E6%B5%A9%E7%89%88%29.mp3",
+      "publishedPath": "dist/audio/lizhi/053.mp3",
+      "audioUrl": "audio/lizhi/053.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/053.mp3"
     },
     {
       "id": "lizhi-054",
@@ -858,13 +964,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/下雨.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%B8%8B%E9%9B%A8.mp3",
       "lyricsUrl": null,
       "bytes": 12323384,
       "gitBlob": "1116927215dc2cdbb44a5c07531f8207f9c73dab",
       "sha256": "55a32723b4d710ce2c8030145969d77f98c0c713c32badd4216852c3f32887e5",
-      "localBackupPath": "resources/lizhi/054.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%B8%8B%E9%9B%A8.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%B8%8B%E9%9B%A8.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%B8%8B%E9%9B%A8.mp3",
+      "publishedPath": "dist/audio/lizhi/054.mp3",
+      "audioUrl": "audio/lizhi/054.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/054.mp3"
     },
     {
       "id": "lizhi-055",
@@ -874,13 +982,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/你的早晨.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%BD%A0%E7%9A%84%E6%97%A9%E6%99%A8.mp3",
       "lyricsUrl": null,
       "bytes": 9948335,
       "gitBlob": "76944e2ae548bf77c9ed80e656e69e84c09646c0",
       "sha256": "80f9b6be3f2ea0d89c6432fb8536e49f2300a424b7c4677d015a1afd0e971445",
-      "localBackupPath": "resources/lizhi/055.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%BD%A0%E7%9A%84%E6%97%A9%E6%99%A8.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%BD%A0%E7%9A%84%E6%97%A9%E6%99%A8.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E4%BD%A0%E7%9A%84%E6%97%A9%E6%99%A8.mp3",
+      "publishedPath": "dist/audio/lizhi/055.mp3",
+      "audioUrl": "audio/lizhi/055.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/055.mp3"
     },
     {
       "id": "lizhi-056",
@@ -890,13 +1000,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/女神.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%A5%B3%E7%A5%9E.mp3",
       "lyricsUrl": null,
       "bytes": 12037926,
       "gitBlob": "9a3f259c10fc97db9b9d55f77fd374954efde70c",
       "sha256": "5c2c24d34c52e130f291e086a9340571b5c357214c37e38b825ed57d56ed96ff",
-      "localBackupPath": "resources/lizhi/056.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%A5%B3%E7%A5%9E.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%A5%B3%E7%A5%9E.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%A5%B3%E7%A5%9E.mp3",
+      "publishedPath": "dist/audio/lizhi/056.mp3",
+      "audioUrl": "audio/lizhi/056.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/056.mp3"
     },
     {
       "id": "lizhi-057",
@@ -906,13 +1018,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/寻找.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%AF%BB%E6%89%BE.mp3",
       "lyricsUrl": null,
       "bytes": 5439226,
       "gitBlob": "7b9bbe298d5fd28b61030278ae1aacc9870ed9a6",
       "sha256": "d9a1108ed4b87a3e0b03e42c3fe48b4544dc287e71668fcf6c7aaf5733279952",
-      "localBackupPath": "resources/lizhi/057.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%AF%BB%E6%89%BE.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%AF%BB%E6%89%BE.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%AF%BB%E6%89%BE.mp3",
+      "publishedPath": "dist/audio/lizhi/057.mp3",
+      "audioUrl": "audio/lizhi/057.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/057.mp3"
     },
     {
       "id": "lizhi-058",
@@ -922,13 +1036,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/尽头.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B0%BD%E5%A4%B4.mp3",
       "lyricsUrl": null,
       "bytes": 11008903,
       "gitBlob": "eb70bc4234153776a310b67779a4ca00fb1a68f7",
       "sha256": "dff854fa83be0a922226b98480e115d5ffd5038b7413768b8717cbf552db5521",
-      "localBackupPath": "resources/lizhi/058.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B0%BD%E5%A4%B4.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B0%BD%E5%A4%B4.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B0%BD%E5%A4%B4.mp3",
+      "publishedPath": "dist/audio/lizhi/058.mp3",
+      "audioUrl": "audio/lizhi/058.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/058.mp3"
     },
     {
       "id": "lizhi-059",
@@ -938,13 +1054,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/山阴路的夏天.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B1%B1%E9%98%B4%E8%B7%AF%E7%9A%84%E5%A4%8F%E5%A4%A9.mp3",
       "lyricsUrl": null,
       "bytes": 11164620,
       "gitBlob": "ff501dfd211f7b86f6d1ec71fc0422d0c99a3680",
       "sha256": "de9d669eeac2b0f4d60d74e2f6f534186b599805dd735025a1daf7ae296efc0c",
-      "localBackupPath": "resources/lizhi/059.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B1%B1%E9%98%B4%E8%B7%AF%E7%9A%84%E5%A4%8F%E5%A4%A9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B1%B1%E9%98%B4%E8%B7%AF%E7%9A%84%E5%A4%8F%E5%A4%A9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E5%B1%B1%E9%98%B4%E8%B7%AF%E7%9A%84%E5%A4%8F%E5%A4%A9.mp3",
+      "publishedPath": "dist/audio/lizhi/059.mp3",
+      "audioUrl": "audio/lizhi/059.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/059.mp3"
     },
     {
       "id": "lizhi-060",
@@ -954,13 +1072,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/日.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%97%A5.mp3",
       "lyricsUrl": null,
       "bytes": 6552411,
       "gitBlob": "e8035377c6b74d53d3d4e875436252aa58d099ce",
       "sha256": "9a2333ecbca03ce22bfa5fee8190e5bc0b1cfc776eb0b49f7b0b5418df6e9b49",
-      "localBackupPath": "resources/lizhi/060.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%97%A5.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%97%A5.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%97%A5.mp3",
+      "publishedPath": "dist/audio/lizhi/060.mp3",
+      "audioUrl": "audio/lizhi/060.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/060.mp3"
     },
     {
       "id": "lizhi-061",
@@ -970,13 +1090,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/杭州.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%9D%AD%E5%B7%9E.mp3",
       "lyricsUrl": null,
       "bytes": 9570078,
       "gitBlob": "50aad701ba9a16bdbdeca743708e8ce505deb5f2",
       "sha256": "2fb731dd374dc54234dcb864c7ab3292fbbb230bc2a3f1c7889a889b0f0ef22e",
-      "localBackupPath": "resources/lizhi/061.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%9D%AD%E5%B7%9E.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%9D%AD%E5%B7%9E.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E6%9D%AD%E5%B7%9E.mp3",
+      "publishedPath": "dist/audio/lizhi/061.mp3",
+      "audioUrl": "audio/lizhi/061.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/061.mp3"
     },
     {
       "id": "lizhi-062",
@@ -986,13 +1108,15 @@
       "artist": "李志",
       "album": "F",
       "sourcePath": "publish/F/门.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E9%97%A8.mp3",
       "lyricsUrl": null,
       "bytes": 15513456,
       "gitBlob": "e236c449f07f51bd4f992e90f52fca5e144a6f55",
       "sha256": "7ab9f26bdec694fa48c39ed722d95eaec9c8846df80e7d9855afc96e05d021e3",
-      "localBackupPath": "resources/lizhi/062.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E9%97%A8.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E9%97%A8.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/F/%E9%97%A8.mp3",
+      "publishedPath": "dist/audio/lizhi/062.mp3",
+      "audioUrl": "audio/lizhi/062.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/062.mp3"
     },
     {
       "id": "lizhi-063",
@@ -1002,13 +1126,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/不多.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E4%B8%8D%E5%A4%9A.mp3",
       "lyricsUrl": null,
       "bytes": 9541454,
       "gitBlob": "d9f559270c8ed04bb385a846051431bdc7842ce4",
       "sha256": "fab883419e70df3416abd0d0c0c6dd6c21db767d208f550eeea06fbf12603079",
-      "localBackupPath": "resources/lizhi/063.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E4%B8%8D%E5%A4%9A.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E4%B8%8D%E5%A4%9A.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E4%B8%8D%E5%A4%9A.mp3",
+      "publishedPath": "dist/audio/lizhi/063.mp3",
+      "audioUrl": "audio/lizhi/063.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/063.mp3"
     },
     {
       "id": "lizhi-064",
@@ -1018,13 +1144,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/大象.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A4%A7%E8%B1%A1.mp3",
       "lyricsUrl": null,
       "bytes": 13143218,
       "gitBlob": "b375cdc8ef31b46ca51b2135098dcc72ee857b36",
       "sha256": "062fe19d000a5291c73dac340660da5907766e40b41be166ddb6299bb183966f",
-      "localBackupPath": "resources/lizhi/064.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A4%A7%E8%B1%A1.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A4%A7%E8%B1%A1.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A4%A7%E8%B1%A1.mp3",
+      "publishedPath": "dist/audio/lizhi/064.mp3",
+      "audioUrl": "audio/lizhi/064.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/064.mp3"
     },
     {
       "id": "lizhi-065",
@@ -1034,13 +1162,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/好威武支持有希望.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A5%BD%E5%A8%81%E6%AD%A6%E6%94%AF%E6%8C%81%E6%9C%89%E5%B8%8C%E6%9C%9B.mp3",
       "lyricsUrl": null,
       "bytes": 14951400,
       "gitBlob": "67b00e6dd9529204122525bf4c4d9147d6ed37b5",
       "sha256": "5f5c43fcb84336b2ca1b4adde93429d6570dd9a1e2b53072237a67f8db657b81",
-      "localBackupPath": "resources/lizhi/065.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A5%BD%E5%A8%81%E6%AD%A6%E6%94%AF%E6%8C%81%E6%9C%89%E5%B8%8C%E6%9C%9B.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A5%BD%E5%A8%81%E6%AD%A6%E6%94%AF%E6%8C%81%E6%9C%89%E5%B8%8C%E6%9C%9B.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%A5%BD%E5%A8%81%E6%AD%A6%E6%94%AF%E6%8C%81%E6%9C%89%E5%B8%8C%E6%9C%9B.mp3",
+      "publishedPath": "dist/audio/lizhi/065.mp3",
+      "audioUrl": "audio/lizhi/065.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/065.mp3"
     },
     {
       "id": "lizhi-066",
@@ -1050,13 +1180,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/定西.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%AE%9A%E8%A5%BF.mp3",
       "lyricsUrl": null,
       "bytes": 11914418,
       "gitBlob": "b9bcaaf21abb0d7632879244d7ebf45194cd4f36",
       "sha256": "54d510415799ad937f3149882f0bdc48aa1b33214757b9034ac89e82dc4299e8",
-      "localBackupPath": "resources/lizhi/066.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%AE%9A%E8%A5%BF.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%AE%9A%E8%A5%BF.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E5%AE%9A%E8%A5%BF.mp3",
+      "publishedPath": "dist/audio/lizhi/066.mp3",
+      "audioUrl": "audio/lizhi/066.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/066.mp3"
     },
     {
       "id": "lizhi-067",
@@ -1066,13 +1198,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/方式.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E6%96%B9%E5%BC%8F.mp3",
       "lyricsUrl": null,
       "bytes": 9913438,
       "gitBlob": "de9a956c92f40be92c1132798a9fb07f11db2ade",
       "sha256": "45bf9b4f9b75d7adef0dcfa78f7f78e9204f94708ce6789cff93499f96d07621",
-      "localBackupPath": "resources/lizhi/067.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E6%96%B9%E5%BC%8F.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E6%96%B9%E5%BC%8F.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E6%96%B9%E5%BC%8F.mp3",
+      "publishedPath": "dist/audio/lizhi/067.mp3",
+      "audioUrl": "audio/lizhi/067.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/067.mp3"
     },
     {
       "id": "lizhi-068",
@@ -1082,13 +1216,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/热河.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%83%AD%E6%B2%B3.mp3",
       "lyricsUrl": null,
       "bytes": 16340605,
       "gitBlob": "91dddd274cafa2e637a87f176793834eea960551",
       "sha256": "72c9a3b469fec86169602746d1296df40fead93b54fbc99cc770eeba5b73d589",
-      "localBackupPath": "resources/lizhi/068.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%83%AD%E6%B2%B3.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%83%AD%E6%B2%B3.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%83%AD%E6%B2%B3.mp3",
+      "publishedPath": "dist/audio/lizhi/068.mp3",
+      "audioUrl": "audio/lizhi/068.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/068.mp3"
     },
     {
       "id": "lizhi-069",
@@ -1098,13 +1234,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/看见.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%9C%8B%E8%A7%81.mp3",
       "lyricsUrl": null,
       "bytes": 10219593,
       "gitBlob": "addc1b5c6aa71bd51f6d698934f47f818f64a060",
       "sha256": "1b199bce42ad683264805f3aa954ca8538db1ca62ff0fee731755b49a60f8c21",
-      "localBackupPath": "resources/lizhi/069.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%9C%8B%E8%A7%81.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%9C%8B%E8%A7%81.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E7%9C%8B%E8%A7%81.mp3",
+      "publishedPath": "dist/audio/lizhi/069.mp3",
+      "audioUrl": "audio/lizhi/069.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/069.mp3"
     },
     {
       "id": "lizhi-070",
@@ -1114,13 +1252,15 @@
       "artist": "李志",
       "album": "1701",
       "sourcePath": "publish/1701/鼠说.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E9%BC%A0%E8%AF%B4.mp3",
       "lyricsUrl": null,
       "bytes": 12767054,
       "gitBlob": "a34a906a9ae577657ca8a6fa37363f4c5131efeb",
       "sha256": "bdf748e87d2fee601d9f24384d05d0d46c4bc9613f7e9c9ff1d24eb2cf210db9",
-      "localBackupPath": "resources/lizhi/070.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E9%BC%A0%E8%AF%B4.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E9%BC%A0%E8%AF%B4.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/1701/%E9%BC%A0%E8%AF%B4.mp3",
+      "publishedPath": "dist/audio/lizhi/070.mp3",
+      "audioUrl": "audio/lizhi/070.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/070.mp3"
     },
     {
       "id": "lizhi-071",
@@ -1130,13 +1270,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/一个夜晚.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A.mp3",
       "lyricsUrl": null,
       "bytes": 11552813,
       "gitBlob": "15ffd06b993f56c2daf03b7959b466f129b872d2",
       "sha256": "a4aa49e2774be1951dbff5a8705b31941cfba68b1d95d30ef0da818952775d9f",
-      "localBackupPath": "resources/lizhi/071.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E4%B8%AA%E5%A4%9C%E6%99%9A.mp3",
+      "publishedPath": "dist/audio/lizhi/071.mp3",
+      "audioUrl": "audio/lizhi/071.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/071.mp3"
     },
     {
       "id": "lizhi-072",
@@ -1146,13 +1288,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/一头偶像.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E5%A4%B4%E5%81%B6%E5%83%8F.mp3",
       "lyricsUrl": null,
       "bytes": 9194478,
       "gitBlob": "a68eca1ccf0fbd7dcf4c00d2d81d5f4741bff12a",
       "sha256": "c98137669ac29d923b58736ab8a94dabb76621bba8edc275fe98ae117b3b5efa",
-      "localBackupPath": "resources/lizhi/072.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E5%A4%B4%E5%81%B6%E5%83%8F.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E5%A4%B4%E5%81%B6%E5%83%8F.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%B8%80%E5%A4%B4%E5%81%B6%E5%83%8F.mp3",
+      "publishedPath": "dist/audio/lizhi/072.mp3",
+      "audioUrl": "audio/lizhi/072.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/072.mp3"
     },
     {
       "id": "lizhi-073",
@@ -1162,13 +1306,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/你好明天.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%BD%A0%E5%A5%BD%E6%98%8E%E5%A4%A9.mp3",
       "lyricsUrl": null,
       "bytes": 10989593,
       "gitBlob": "b65adadf58ff026b4cceeec15bc967fdca4996d9",
       "sha256": "d830a1c2fd8550d892167f7640c30f407e163f8745b348f5a152b0d653e2a778",
-      "localBackupPath": "resources/lizhi/073.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%BD%A0%E5%A5%BD%E6%98%8E%E5%A4%A9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%BD%A0%E5%A5%BD%E6%98%8E%E5%A4%A9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E4%BD%A0%E5%A5%BD%E6%98%8E%E5%A4%A9.mp3",
+      "publishedPath": "dist/audio/lizhi/073.mp3",
+      "audioUrl": "audio/lizhi/073.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/073.mp3"
     },
     {
       "id": "lizhi-074",
@@ -1178,13 +1324,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/克兰河.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%85%8B%E5%85%B0%E6%B2%B3.mp3",
       "lyricsUrl": null,
       "bytes": 14705248,
       "gitBlob": "20f41bdfe08b6d5df0f95461574d9f020278cf0e",
       "sha256": "bd47bf7ba5b8e01aaab936cb9f66b12b0e5515d1aa1c55be72b96ffd0c6121ff",
-      "localBackupPath": "resources/lizhi/074.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%85%8B%E5%85%B0%E6%B2%B3.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%85%8B%E5%85%B0%E6%B2%B3.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%85%8B%E5%85%B0%E6%B2%B3.mp3",
+      "publishedPath": "dist/audio/lizhi/074.mp3",
+      "audioUrl": "audio/lizhi/074.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/074.mp3"
     },
     {
       "id": "lizhi-075",
@@ -1194,13 +1342,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/哦吼.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%93%A6%E5%90%BC.mp3",
       "lyricsUrl": null,
       "bytes": 10036618,
       "gitBlob": "9cbbc22537eaa6d22218821a5de1a69d45e1e79f",
       "sha256": "56b5b9154fd67d0f6ec17ee3d8e8c03425a4a35222d230dcdfbe228e53bb7c47",
-      "localBackupPath": "resources/lizhi/075.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%93%A6%E5%90%BC.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%93%A6%E5%90%BC.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%93%A6%E5%90%BC.mp3",
+      "publishedPath": "dist/audio/lizhi/075.mp3",
+      "audioUrl": "audio/lizhi/075.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/075.mp3"
     },
     {
       "id": "lizhi-076",
@@ -1210,13 +1360,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/在每一条伤心的应天大街上.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A.mp3",
       "lyricsUrl": null,
       "bytes": 17477444,
       "gitBlob": "9ec649ec99a6f79e4b103df4a386d33e3bb38b88",
       "sha256": "60637cd9c439425b04923df2d5a23e387dddc4882c40f447e8d0c6085362987f",
-      "localBackupPath": "resources/lizhi/076.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A.mp3",
+      "publishedPath": "dist/audio/lizhi/076.mp3",
+      "audioUrl": "audio/lizhi/076.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/076.mp3"
     },
     {
       "id": "lizhi-077",
@@ -1226,13 +1378,15 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/彩色派对.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%BD%A9%E8%89%B2%E6%B4%BE%E5%AF%B9.mp3",
       "lyricsUrl": null,
       "bytes": 8646931,
       "gitBlob": "51cb48cbe1fa24a0233db9705871e5b29761f365",
       "sha256": "dc95b8810d8730d69e3fd4c6ad41d3a0b67b41833b2dffa37dfa111cd9cfb7f4",
-      "localBackupPath": "resources/lizhi/077.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%BD%A9%E8%89%B2%E6%B4%BE%E5%AF%B9.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%BD%A9%E8%89%B2%E6%B4%BE%E5%AF%B9.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E5%BD%A9%E8%89%B2%E6%B4%BE%E5%AF%B9.mp3",
+      "publishedPath": "dist/audio/lizhi/077.mp3",
+      "audioUrl": "audio/lizhi/077.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/077.mp3"
     },
     {
       "id": "lizhi-078",
@@ -1242,13 +1396,17 @@
       "artist": "李志",
       "album": "在每一条伤心的应天大街上",
       "sourcePath": "publish/在每一条伤心的应天大街上/死人.mp3",
-      "audioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E6%AD%BB%E4%BA%BA.mp3",
       "lyricsUrl": null,
       "bytes": 11868348,
       "gitBlob": "0a68fe1570121d847e5afdbd4873f6b86df55b38",
       "sha256": "f366e8fc2507e373909c74d374b5afb2cacee4e2ab8a6a6b8c38a63e03ef419d",
-      "localBackupPath": "resources/lizhi/078.mp3",
-      "audioFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E6%AD%BB%E4%BA%BA.mp3"
+      "sourceAudioUrl": "https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E6%AD%BB%E4%BA%BA.mp3",
+      "sourceFallbackUrl": "https://raw.githubusercontent.com/lvboda/lizhi-mp3/2128926ed32e26b7ef6610246175a4fe5992b7c0/publish/%E5%9C%A8%E6%AF%8F%E4%B8%80%E6%9D%A1%E4%BC%A4%E5%BF%83%E7%9A%84%E5%BA%94%E5%A4%A9%E5%A4%A7%E8%A1%97%E4%B8%8A/%E6%AD%BB%E4%BA%BA.mp3",
+      "publishedPath": "dist/audio/lizhi/078.mp3",
+      "audioUrl": "audio/lizhi/078.mp3",
+      "audioFallbackUrl": "https://raw.githubusercontent.com/zhihao990218-rgb/lyrics-player/main/dist/audio/lizhi/078.mp3"
     }
-  ]
+  ],
+  "hostingRepository": "https://github.com/zhihao990218-rgb/lyrics-player",
+  "hostingUpdatedAt": "2026-11-25"
 }
